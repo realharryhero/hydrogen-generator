@@ -5,10 +5,14 @@ I don't have anything to show yet, sadly. I suppose though that I'll explain wha
 This is based on [this video](https://www.youtube.com/watch?v=oIWgzVaGn4Y) by Hyperspace Pirate; you can watch it to get a feel for what I'm doing, So this will literally be 
 a machine that generates hydrogen and stores it somewhere (**without using a steel tank, because it will go through steel - use aluminum tanks**) using water hydrolysis. The concept is simple - run a voltage through water (H20)
 with something like this setup:
+
 <img width="650" alt="Screen Shot 2025-05-17 at 9 27 40 AM" src="https://github.com/user-attachments/assets/cbbf46fe-4c9d-4e21-8421-ed4dd8058b71" />
+
 This hydrogen is then stored in a little dome with this schematic below (from Hyperspace Pirate's video):
+
 <img width="650" alt="Screen Shot 2025-05-17 at 9 29 55 AM" src="https://github.com/user-attachments/assets/6dc84d8b-8385-4d34-8788-8b12bb6f9396" />
-Then it's vaccum pumped into a tank or whatever. So this is pretty nice! A few issues that I'll need to address:
+
+Then it's vaccum pumped into a tank or whatever. So this is pretty nice! A few issues that I'll need to address are below.
 
 1. Hydrogen and oxygen can go boom. yeah. We'll attempt to store very little hydrogen / oxygen and do this outside / in somewhere nonflammable.
 2. Hydrogen can actually tunnel through steel tanks because _yes._ (something something chemistry.) We'll have to use aluminum tanks, which are also safe and can hold up to [3000 psi](https://www.hkarmy.com/products/48ci-3000psi-aluminum-compressed-air-tank#:~:text=The%20aluminum%20tanks%20come%20with,48ci%20%2F%203000psi) (we'll probably store 125 psi or so). 
